@@ -1,3 +1,3 @@
-import { getWeatherWidget } from './js/weather';
+import { getWeatherWidget, markup } from './js/weather';
 
-getWeatherWidget()
+getWeatherWidget();

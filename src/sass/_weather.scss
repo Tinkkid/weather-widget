@@ -1,10 +1,8 @@
 // Стилі для десктопної версії
 .weather {
-  color: #fff;
-  display: flex;
-  justify-content: center;
 
   &__card {
+    color: #fff;
     padding-top: 40px;
     padding-bottom: 60px;
     padding-left: 53px;
